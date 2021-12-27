@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 print('heello')
-print('hi there')# URL = 'https://news.ycombinator.com/'
+# URL = 'https://news.ycombinator.com/'
 # for page in range(2,3):
 #     res = requests.get(URL + '/' + 'newws?p=' + str(page))
 #     soup = BeautifulSoup(res.text, 'html.parser')
